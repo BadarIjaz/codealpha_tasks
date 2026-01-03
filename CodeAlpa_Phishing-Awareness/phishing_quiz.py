@@ -14,7 +14,7 @@ class StylishQuizApp(ctk.CTk):
         self.geometry("900x700")
         self.resizable(False, False)
         
-        # Modern Cyberpunk Colors
+        # Modern Cyberpunk Colors 
         self.col_bg = "#0F172A"      # Dark Navy
         self.col_card = "#1E293B"    # Slate Card
         self.col_accent = "#00E5FF"  # Neon Cyan
